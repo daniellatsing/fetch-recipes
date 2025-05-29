@@ -6,6 +6,7 @@
 
 ### Home
 ![Home](READMEFiles/Home.png)
+![Home to Detail](READMEFiles/Home-to-Detail.gif)
 
 ### Search
 ![Search](READMEFiles/Search.png)
