@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0204ED91-D735-4CD8-91C8-227078AE5B9B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19C78A9E-1594-4200-81D5-C54D887AA179"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fetch Recipes/Views/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76F405F5-0D80-4E6E-8652-90FCC8A91626"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fetch RecipesTests/RecipeServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "RecipeServiceTests"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "76F405F5-0D80-4E6E-8652-90FCC8A91626 - 47c183bd0fda2415"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fetch_RecipesTests.RecipeServiceTests.__allocating_init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; Fetch_RecipesTests.RecipeServiceTests"
+                  moduleName = "Fetch RecipesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniella/Documents/fetch-recipes/Fetch%20RecipesTests/RecipeServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "76F405F5-0D80-4E6E-8652-90FCC8A91626 - 2a2fc4a7be1b8657"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fetch_RecipesTests.RecipeServiceTests.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; Fetch_RecipesTests.RecipeServiceTests"
+                  moduleName = "Fetch RecipesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniella/Documents/fetch-recipes/Fetch%20RecipesTests/RecipeServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13">
+               </Location>
+               <Location
+                  uuid = "76F405F5-0D80-4E6E-8652-90FCC8A91626 - 1b216199831020d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fetch_RecipesTests.RecipeServiceTests.__allocating_init(selector: ObjectiveC.Selector) -&gt; Fetch_RecipesTests.RecipeServiceTests"
+                  moduleName = "Fetch RecipesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniella/Documents/fetch-recipes/Fetch%20RecipesTests/RecipeServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "76F405F5-0D80-4E6E-8652-90FCC8A91626 - 2504e6ab3b3312ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fetch_RecipesTests.RecipeServiceTests.init(selector: ObjectiveC.Selector) -&gt; Fetch_RecipesTests.RecipeServiceTests"
+                  moduleName = "Fetch RecipesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniella/Documents/fetch-recipes/Fetch%20RecipesTests/RecipeServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13">
+               </Location>
+               <Location
+                  uuid = "76F405F5-0D80-4E6E-8652-90FCC8A91626 - a22f46812ac47a2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fetch_RecipesTests.RecipeServiceTests.__allocating_init() -&gt; Fetch_RecipesTests.RecipeServiceTests"
+                  moduleName = "Fetch RecipesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniella/Documents/fetch-recipes/Fetch%20RecipesTests/RecipeServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "76F405F5-0D80-4E6E-8652-90FCC8A91626 - a6f315ba131dcace"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fetch_RecipesTests.RecipeServiceTests.init() -&gt; Fetch_RecipesTests.RecipeServiceTests"
+                  moduleName = "Fetch RecipesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniella/Documents/fetch-recipes/Fetch%20RecipesTests/RecipeServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13">
+               </Location>
+               <Location
+                  uuid = "76F405F5-0D80-4E6E-8652-90FCC8A91626 - 5b62a53ab15f6e35"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fetch_RecipesTests.RecipeServiceTests.__deallocating_deinit"
+                  moduleName = "Fetch RecipesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniella/Documents/fetch-recipes/Fetch%20RecipesTests/RecipeServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -26,26 +26,31 @@ struct RecipeItem: View {
                     .cornerRadius(14.0)
             }
             .cornerRadius(14.0)
-            .frame(width: 180, height: 180)
+            .frame(width: 160, height: 160)
             .background(LinearGradient(gradient: Gradient(colors: [Color(.gray).opacity(0.3), Color(.gray)]), startPoint: .top, endPoint: .bottom))
             .clipShape(RoundedRectangle(cornerRadius: 14.0, style: /*@START_MENU_TOKEN@*/.continuous/*@END_MENU_TOKEN@*/))
             
             
             VStack(alignment: .leading) {
                 Text(recipe.name)
-                    .font(.system(size: 20))
+                    .font(.system(size: 18))
                     .fontWeight(/*@START_MENU_TOKEN@*/.bold/*@END_MENU_TOKEN@*/)
                     .foregroundColor(.black)
                     .multilineTextAlignment(.leading)
+                    .lineLimit(2)
+                    .truncationMode(/*@START_MENU_TOKEN@*/.tail/*@END_MENU_TOKEN@*/)
+                
                 
                 Text(recipe.cuisine)
                     .foregroundColor(.davySGray)
             }
-            .padding(.bottom, 20)
         }
+        .frame(height: 240)
+        .padding(.vertical, 8)
+//        .background(Color.red.opacity(0.1))
     }
 }
 
 #Preview {
-    RecipeCard(recipe: Recipe.mock())
+    RecipeItem(recipe: Recipe.mock())
 }
