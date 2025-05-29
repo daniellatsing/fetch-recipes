@@ -2,22 +2,28 @@
 
 ## Summary 
 ### Splash Screen
-![Splash Screen](READMEFiles/Splash-Screen.gif)
+<img src="READMEFiles/Splash-Screen.gif" width="30%"/>
 
 ### Home
-![Home](READMEFiles/Home.png)
-![Home to Detail](READMEFiles/Home-to-Detail.gif)
+<div style="display: flex; justify-content: space-around;">
+  <img src="READMEFiles/Home.png" width="30%"/>
+  <img src="READMEFiles/Home-to-Detail.gif" width="30%"/>
+</div>
 
 ### Search
-![Search](READMEFiles/Search.png)
-![Search Suggestions](READMEFiles/Search-Suggestions.gif)
-![Search by cuisine](READMEFiles/Search-by-cuisine.gif)
-![Search Cuisine](READMEFiles/Cuisine-Sort.gif)
+<div style="display: flex; justify-content: space-around;">
+  <img src="READMEFiles/Search.png" width="30%"/>
+  <img src="READMEFiles/Search-Suggestions.gif" width="30%"/>
+  <img src="READMEFiles/Search-by-cuisine.gif" width="30%"/>
+  <img src="READMEFiles/Cuisine-Sort.gif" width="30%"/>
+</div>
 
 ### Detailed Recipe View
-![Detailed Recipe View](READMEFiles/Recipe-View-(Detailed).png)
-![Video Instructions](READMEFiles/Youtube-Instructions.gif)
-![Recipe Instructions](READMEFiles/Recipe-Instructions.gif)
+<div style="display: flex; justify-content: space-around;">
+  <img src="READMEFiles/Recipe-View-(Detailed).png" width="30%"/>
+  <img src="READMEFiles/Youtube-Instructions.gif" width="30%"/>
+  <img src="READMEFiles/Recipe-Instructions.gif" width="30%"/>
+</div>
 
 ## Focus Areas 
 - **API Integration**: Integrating the external recipe API was a priority because it powered the core functionality of the app, which was to display recipes to users. I implemented Swift's `async/await` concurrency model, enabling efficient data fetching and responsive UI updates. I also implemented error handling and data decoding to maintain data reliability and accuracy.
